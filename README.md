@@ -20,8 +20,8 @@ INSTALLATION
 ------------
 1. Clone this repository:
    ```
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/ararasstudio/ETS2-ATS-PLAYERS-LOG-TO-DISCORD
+   cd ETS2-ATS-PLAYERS-LOG-TO-DISCORD
    ```
 2. Install dependencies:
    ```
